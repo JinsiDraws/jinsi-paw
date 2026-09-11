@@ -38,6 +38,6 @@ It is derived from Gochi Hand.
 
 Copyright (c) 2011, Huerta Tipografica ([www.huertatipografica.com.ar](http://www.huertatipografica.com.ar)), with Reserved Font Names "Gochi" and "Gochi Hand".
 
-Copyright (c) 2026, Essa, for modifications distributed under the name "Jinsi Paw".
+Copyright (c) 2026, Jin, for modifications distributed under the name "Jinsi Paw".
 
 See `OFL.txt` for the complete license.
