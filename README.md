@@ -17,6 +17,8 @@ Jinsi Paw includes the modifications:
 * Bold Oblique style
 * Revised font metadata and family organization
 
+The goals of these modifications is to have the words cluster better, leaving a larger gap between words and have the lines be more compact reducing deadspace in speech bubbles. I tried my best to match the kind of spacing Anime Ace had that made it so popular for usage in manga and comic lettering.
+
 ## Fonts
 The following styles are currently included:
 * Jinsi Paw Regular
