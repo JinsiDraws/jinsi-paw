@@ -17,7 +17,10 @@ Jinsi Paw includes the modifications:
 * Bold Oblique style
 * Revised font metadata and family organization
 
-The goals of these modifications is to have the words cluster better, leaving a larger gap between words and have the lines be more compact reducing deadspace in speech bubbles. I tried my best to match the kind of spacing Anime Ace had that made it so popular for usage in manga and comic lettering.
+The goal of these modifications is to make the font better suited for comic and manga lettering. Character spacing has been tightened so words cluster more naturally, while the spacing between words has been increased to improve readability. The line height has also been reduced to minimize dead space and allow dialogue to fit more comfortably inside speech bubbles. I aimed to recreate the kind of spacing and visual rhythm found in Anime Ace!
+
+Bold and Italic styles have also been added with emphasis in mind. Bold text is approximately 25% larger than the Regular style, while Italic text is approximately 13% larger. Bold Italic uses the same size as Bold. These differences are intentional since I wanted these emphasized words remain easy to read at a distance and stand out more clearly within a speech bubble.
+
 
 ## Fonts
 The following styles are currently included:
