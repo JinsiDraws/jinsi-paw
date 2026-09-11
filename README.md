@@ -1,8 +1,10 @@
 # Jinsi Paw
 
-**Jinsi Paw** is a hand-lettered font designed primarily for comic and manga lettering. I highly recommend using only the uppercase letters however I also packaged this font with lowercase just in case you want to give that a try.
+**Jinsi Paw** is a hand-lettered font designed primarily for comic and manga lettering. I highly recommend using only the uppercase letters however I also packaged this font with lowercase just in case you want to give that a try. 
 
-**Jinsi Paw** is a modified version of **Gochi Hand**, originally created by Huerta Tipografica, with changes intended to make the typeface better suited to comic dialogue and lettering.
+**Jinsi Paw** is a modified version of **Gochi Hand**, originally created by Huerta Tipografica, with changes intended to make the typeface better suited to comic dialogue and lettering inspired by the likes of Anime Ace.
+
+![Jinsi Paw specimen](documentation/specimen.png)
 
 ## Changes from Gochi Hand
 
